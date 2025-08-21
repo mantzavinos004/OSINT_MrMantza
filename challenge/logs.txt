@@ -1,0 +1,993 @@
+# Social Media Intelligence Logs - EuroTravel Solutions
+# Monitoring Period: 2024-03-01 to 2024-03-15
+# Subject: Missing Person Investigation - Mr. Mantza
+# Log Level: DETAILED
+# Classification: CONFIDENTIAL
+
+==================================================
+
+[2024-03-01 09:23:15] FACEBOOK POST - USER: sarah_travels_eu
+Location: Rome, Italy
+Content: "Just finished the most amazing pasta making class in Trastevere! 🍝 #RomeLife #PastaLover #ItalianCuisine #EuroTrip"
+Engagement: 47 likes, 12 comments
+IP: 185.45.67.123
+Device: iPhone 14 Pro
+
+==================================================
+
+[2024-03-01 10:45:22] TWITTER POST - USER: @MrMantza
+Location: London, UK
+Content: "Foggy morning in London but the energy is incredible! Off to explore Camden Market 🇬🇧 #London #Camden #UKAdventure"
+Retweets: 8, Likes: 34
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-01 14:56:32] TWITTER POST - USER: @wanderlust_mike
+Location: Paris, France
+Content: "Eiffel Tower never gets old. 7th time visiting and still magical ✨ #Paris #EiffelTower #France #TravelLife"
+Retweets: 23, Likes: 156
+IP: 192.168.45.78
+Device: Samsung Galaxy S23
+
+==================================================
+
+[2024-03-01 16:12:44] INSTAGRAM POST - USER: elena_adventures
+Location: Prague, Czech Republic
+Content: "Charles Bridge at sunset is pure magic! 🌅 #Prague #CharlesBridge #Sunset #CzechRepublic"
+Likes: 189, Comments: 23
+IP: 88.99.156.44
+Device: iPhone 13
+
+==================================================
+
+[2024-03-01 18:33:18] FACEBOOK POST - USER: marco_foodie
+Location: Naples, Italy
+Content: "Best pizza of my life! Nothing beats authentic Neapolitan pizza 🍕 #Naples #Pizza #Italy #Foodie"
+Engagement: 67 likes, 19 comments
+IP: 151.76.23.89
+Device: Google Pixel 6
+
+==================================================
+
+[2024-03-02 08:15:33] TWITTER POST - USER: @travel_jenny
+Location: Vienna, Austria
+Content: "Schönbrunn Palace is absolutely stunning! The gardens are incredible 🏰 #Vienna #Schönbrunn #Austria #Palace"
+Retweets: 15, Likes: 92
+IP: 194.33.78.12
+Device: iPhone 12 Pro
+
+==================================================
+
+[2024-03-02 11:15:44] INSTAGRAM POST - USER: city_explorer_23
+Location: Barcelona, Spain
+Content: "Sagrada Familia is absolutely breathtaking! Gaudi was a genius 🏛 #Barcelona #SagradaFamilia #Architecture #Spain"
+Likes: 234, Comments: 18
+IP: 203.45.12.89
+Device: Google Pixel 7
+
+==================================================
+
+[2024-03-02 13:28:56] FACEBOOK POST - USER: @MrMantza
+Location: Amsterdam, Netherlands
+Content: "Cycling through Amsterdam canals is the perfect way to see the city! 🚲 #Amsterdam #Cycling #Netherlands #Canals"
+Engagement: 42 likes, 8 comments
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-02 15:47:11] TWITTER POST - USER: @nordic_nomad
+Location: Stockholm, Sweden
+Content: "Gamla Stan is like stepping into a fairy tale! 🏘️ #Stockholm #GamlaStan #Sweden #OldTown"
+Retweets: 19, Likes: 87
+IP: 185.67.34.23
+Device: iPhone 14
+
+==================================================
+
+[2024-03-02 19:22:33] INSTAGRAM POST - USER: adventure_seeker_99
+Location: Zurich, Switzerland
+Content: "Lake Zurich reflections are stunning today! 🏔️ #Zurich #Switzerland #Lake #Mountains"
+Likes: 156, Comments: 14
+IP: 178.12.99.67
+Device: Samsung Galaxy S21
+
+==================================================
+
+[2024-03-03 09:44:17] FACEBOOK POST - USER: greek_odyssey
+Location: Santorini, Greece
+Content: "Sunset in Oia never disappoints! Blue domes and golden hour perfection 🌅 #Santorini #Oia #Greece #Sunset"
+Engagement: 198, likes, 34 comments
+IP: 94.65.178.23
+Device: iPhone 13 Pro
+
+==================================================
+
+[2024-03-03 12:16:29] TWITTER POST - USER: @MrMantza
+Location: Berlin, Germany
+Content: "Brandenburg Gate hits different when you understand the history behind it 🚪 #Berlin #Brandenburg #Germany #History"
+Retweets: 12, Likes: 56
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-03 14:35:42] INSTAGRAM POST - USER: photo_traveler
+Location: Budapest, Hungary
+Content: "Parliament building reflecting in the Danube is magical! 🏛️ #Budapest #Parliament #Danube #Hungary"
+Likes: 278, Comments: 31
+IP: 91.147.89.34
+Device: Google Pixel 8
+
+==================================================
+
+[2024-03-03 17:58:14] FACEBOOK POST - USER: cultural_explorer
+Location: Edinburgh, Scotland
+Content: "Edinburgh Castle on a misty day feels like something out of a movie! 🏰 #Edinburgh #Castle #Scotland #Misty"
+Engagement: 89, likes, 15 comments
+IP: 86.147.23.67
+Device: iPhone 11
+
+==================================================
+
+[2024-03-04 08:23:51] TWITTER POST - USER: @food_wanderer
+Location: Lyon, France
+Content: "French cuisine capital doesn't disappoint! Best coq au vin ever 🍷 #Lyon #FrenchFood #CoqAuVin #France"
+Retweets: 21, Likes: 134
+IP: 87.234.56.78
+Device: Samsung Galaxy S20
+
+==================================================
+
+[2024-03-04 10:41:03] INSTAGRAM POST - USER: @MrMantza
+Location: Athens, Greece
+Content: "Acropolis museum is incredible! So much history in one place 🏛️ #Athens #Acropolis #Greece #History #Museum"
+Likes: 67, Comments: 9
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-04 13:19:27] FACEBOOK POST - USER: mountain_lover
+Location: Interlaken, Switzerland
+Content: "Jungfrau views are absolutely breathtaking! Worth every penny 🏔️ #Interlaken #Jungfrau #Switzerland #Mountains"
+Engagement: 156, likes, 28 comments
+IP: 185.67.234.12
+Device: iPhone 14 Pro
+
+==================================================
+
+[2024-03-04 16:44:38] TWITTER POST - USER: @history_buff
+Location: Krakow, Poland
+Content: "Wawel Castle is a hidden gem! Polish history comes alive here 🏰 #Krakow #WawelCastle #Poland #History"
+Retweets: 14, Likes: 78
+IP: 83.45.167.89
+Device: Google Pixel 7 Pro
+
+==================================================
+
+[2024-03-04 19:12:55] INSTAGRAM POST - USER: sea_lover
+Location: Dubrovnik, Croatia
+Content: "Game of Thrones filming location in real life! King's Landing vibes 🏰 #Dubrovnik #GameOfThrones #Croatia #KingsLanding"
+Likes: 312, Comments: 45
+IP: 188.129.67.34
+Device: iPhone 12
+
+==================================================
+
+[2024-03-05 07:56:12] FACEBOOK POST - USER: @MrMantza
+Location: Lisbon, Portugal
+Content: "Tram 28 tour complete! Lisbon's hills are no joke but the views are worth it 🚋 #Lisbon #Tram28 #Portugal #Hills"
+Engagement: 38, likes, 6 comments
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-05 11:28:44] TWITTER POST - USER: @art_enthusiast
+Location: Florence, Italy
+Content: "Uffizi Gallery is overwhelming in the best way possible! Renaissance masterpieces everywhere 🎨 #Florence #Uffizi #Renaissance #Art"
+Retweets: 18, Likes: 156
+IP: 79.45.123.67
+Device: iPhone 13 Mini
+
+==================================================
+
+[2024-03-05 14:17:29] INSTAGRAM POST - USER: nature_photographer
+Location: Hallstatt, Austria
+Content: "Most photogenic village in the world? I think yes! 📸 #Hallstatt #Austria #Village #Photography"
+Likes: 445, Comments: 67
+IP: 213.167.89.23
+Device: Canon EOS Camera + iPhone
+
+==================================================
+
+[2024-03-05 17:33:16] FACEBOOK POST - USER: beer_traveler
+Location: Munich, Germany
+Content: "Oktoberfest prep happening! Even in March, the beer culture here is amazing 🍺 #Munich #Beer #Germany #Oktoberfest"
+Engagement: 92, likes, 21 comments
+IP: 46.123.78.34
+Device: Samsung Galaxy Note 20
+
+==================================================
+
+[2024-03-05 20:45:31] TWITTER POST - USER: @MrMantza
+Location: Madrid, Spain
+Content: "Prado Museum day! Velázquez and Goya in person hit different 🎨 #Madrid #Prado #Spain #Art #Velázquez #Goya"
+Retweets: 7, Likes: 29
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-06 09:14:23] INSTAGRAM POST - USER: coffee_nomad
+Location: Copenhagen, Denmark
+Content: "Danish coffee culture is next level! Hygge vibes everywhere ☕ #Copenhagen #Coffee #Denmark #Hygge"
+Likes: 178, Comments: 22
+IP: 90.184.67.45
+Device: iPhone 14 Pro Max
+
+==================================================
+
+[2024-03-06 12:52:17] FACEBOOK POST - USER: castle_hunter
+Location: Neuschwanstein, Germany
+Content: "Disney castle inspiration in real life! Fairy tale architecture 🏰 #Neuschwanstein #Germany #Disney #Castle #FairyTale"
+Engagement: 234, likes, 43 comments
+IP: 217.89.156.78
+Device: Google Pixel 6 Pro
+
+==================================================
+
+[2024-03-06 15:38:49] TWITTER POST - USER: @festival_goer
+Location: Brussels, Belgium
+Content: "Belgian waffles and chocolate tour complete! Heaven exists and it's in Brussels 🧇 #Brussels #Belgium #Waffles #Chocolate"
+Retweets: 26, Likes: 198
+IP: 195.78.234.56
+Device: iPhone 11 Pro
+
+==================================================
+
+[2024-03-06 18:21:34] INSTAGRAM POST - USER: @MrMantza
+Location: Venice, Italy
+Content: "Gondola ride through the canals is touristy but magical! Venice is sinking but still stunning 🚣 #Venice #Gondola #Italy #Canals"
+Likes: 89, Comments: 12
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-07 08:47:26] FACEBOOK POST - USER: nordic_traveler
+Location: Helsinki, Finland
+Content: "Market Square in Helsinki has the best salmon soup! Finnish cuisine is underrated 🍲 #Helsinki #Finland #Salmon #MarketSquare"
+Engagement: 67, likes, 11 comments
+IP: 62.78.145.23
+Device: Nokia X20
+
+==================================================
+
+[2024-03-07 11:16:38] TWITTER POST - USER: @church_explorer
+Location: Vatican City
+Content: "Sistine Chapel leaves you speechless. Michelangelo's genius in every brushstroke 🎨 #VaticanCity #SistineChapel #Michelangelo #Art"
+Retweets: 31, Likes: 267
+IP: 151.67.89.145
+Device: iPhone 12 Pro Max
+
+==================================================
+
+[2024-03-07 14:29:51] INSTAGRAM POST - USER: wine_lover_travel
+Location: Porto, Portugal
+Content: "Port wine cellars tour complete! Vila Nova de Gaia is a wine paradise 🍷 #Porto #PortWine #Portugal #Wine"
+Likes: 156, Comments: 18
+IP: 46.234.78.91
+Device: Samsung Galaxy A54
+
+==================================================
+
+[2024-03-07 17:44:12] FACEBOOK POST - USER: @MrMantza
+Location: Istanbul, Turkey
+Content: "Blue Mosque and Hagia Sophia in one day! East meets West in the most beautiful way 🕌 #Istanbul #BlueMosque #HagiaSophia #Turkey"
+Engagement: 78, likes, 14 comments
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-07 20:33:27] TWITTER POST - USER: @thermal_springs
+Location: Reykjavik, Iceland
+Content: "Blue Lagoon is worth the hype! Geothermal paradise in the middle of nowhere 🌋 #Reykjavik #BlueLagoon #Iceland #Geothermal"
+Retweets: 22, Likes: 189
+IP: 82.148.67.234
+Device: iPhone 13
+
+==================================================
+
+[2024-03-08 09:18:44] INSTAGRAM POST - USER: bridge_photographer
+Location: Mostar, Bosnia
+Content: "Stari Most bridge dive was incredible to watch! Centuries of tradition 🌉 #Mostar #StariMost #Bosnia #Bridge #Tradition"
+Likes: 234, Comments: 29
+IP: 77.234.56.123
+Device: Canon DSLR + iPhone
+
+==================================================
+
+[2024-03-08 12:41:15] FACEBOOK POST - USER: lake_enthusiast
+Location: Lake Bled, Slovenia
+Content: "Bled Island church bells across the lake are magical! Slovenia's hidden gem 🏔️ #LakeBled #Slovenia #Island #Church #Nature"
+Engagement: 145, likes, 26 comments
+IP: 93.156.78.234
+Device: Google Pixel 5
+
+==================================================
+
+[2024-03-08 15:57:33] TWITTER POST - USER: @MrMantza
+Location: Oslo, Norway
+Content: "Viking Ship Museum blew my mind! Norwegian history is fascinating ⛵ #Oslo #Viking #Norway #Museum #History"
+Retweets: 11, Likes: 67
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-08 18:26:41] INSTAGRAM POST - USER: thermal_bath_lover
+Location: Budapest, Hungary
+Content: "Széchenyi Thermal Baths in winter is surreal! Hot springs in the snow ❄️ #Budapest #Thermal #Baths #Winter #Hungary"
+Likes: 198, Comments: 33
+IP: 188.67.234.156
+Device: iPhone 14
+
+==================================================
+
+[2024-03-08 21:14:52] FACEBOOK POST - USER: night_photographer
+Location: Bruges, Belgium
+Content: "Medieval Bruges at night is like a fairy tale! Cobblestone streets and canal reflections 🏰 #Bruges #Medieval #Belgium #Night"
+Engagement: 167, likes, 31 comments
+IP: 109.78.145.67
+Device: Professional Camera + iPhone
+
+==================================================
+
+[2024-03-09 07:42:18] TWITTER POST - USER: @castle_collector
+Location: Bran Castle, Romania
+Content: "Dracula's Castle is more beautiful than scary! Romanian countryside is stunning 🧛 #BranCastle #Dracula #Romania #Castle"
+Retweets: 19, Likes: 134
+IP: 89.145.67.234
+Device: Samsung Galaxy S23 Ultra
+
+==================================================
+
+[2024-03-09 13:48:16] FACEBOOK POST - USER: fjord_explorer
+Location: Geiranger, Norway
+Content: "Geiranger Fjord is nature at its most dramatic! Waterfalls everywhere 🏔️ #Geiranger #Fjord #Norway #Waterfalls #Nature"
+Engagement: 289, likes, 52 comments
+IP: 84.67.189.234
+Device: iPhone 15 Pro
+
+==================================================
+
+[2024-03-09 16:22:43] TWITTER POST - USER: @desert_traveler
+Location: Cappadocia, Turkey
+Content: "Hot air balloon ride over Cappadocia is bucket list material! Fairy chimneys from above 🎈 #Cappadocia #HotAirBalloon #Turkey"
+Retweets: 45, Likes: 356
+IP: 78.234.156.89
+Device: DJI Action Camera + iPhone
+
+==================================================
+
+[2024-03-09 19:51:37] INSTAGRAM POST - USER: volcano_chaser
+Location: Santorini, Greece
+Content: "Volcanic beaches of Santorini are otherworldly! Black sand and blue waters 🌋 #Santorini #Volcanic #Greece #BlackBeach"
+Likes: 267, Comments: 41
+IP: 95.178.67.234
+Device: GoPro + iPhone 13
+
+==================================================
+
+[2024-03-10 08:17:22] FACEBOOK POST - USER: @MrMantza
+Location: Stockholm, Sweden
+Content: "Vasa Museum ship is incredibly preserved! 17th century craftsmanship up close ⛵ #Stockholm #Vasa #Sweden #Museum #Ship"
+Engagement: 56, likes, 9 comments
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-10 11:43:54] TWITTER POST - USER: @glacier_tracker
+Location: Jokulsarlon, Iceland
+Content: "Glacier lagoon icebergs are constantly moving! Nature's sculpture garden ❄️ #Jokulsarlon #Glacier #Iceland #Icebergs"
+Retweets: 28, Likes: 223
+IP: 91.234.78.156
+Device: Weather-sealed Camera + iPhone
+
+==================================================
+
+[2024-03-10 14:36:11] INSTAGRAM POST - USER: cathedral_hunter
+Location: Cologne, Germany
+Content: "Cologne Cathedral took 632 years to complete! Gothic architecture at its finest ⛪ #Cologne #Cathedral #Germany #Gothic"
+Likes: 189, Comments: 24
+IP: 217.156.89.67
+Device: iPhone 12 Pro
+
+==================================================
+
+[2024-03-10 17:28:47] FACEBOOK POST - USER: coastal_wanderer
+Location: Amalfi Coast, Italy
+Content: "Positano cliffside views never get old! Lemon trees and azure waters 🍋 #AmalfiCoast #Positano #Italy #Cliffs #Lemons"
+Engagement: 234, likes, 38 comments
+IP: 87.67.234.156
+Device: Samsung Galaxy S21 Ultra
+
+==================================================
+
+[2024-03-10 20:15:33] TWITTER POST - USER: @MrMantza
+Location: Prague, Czech Republic
+Content: "Astronomical Clock hourly show is mesmerizing! Medieval engineering marvel ⏰ #Prague #AstronomicalClock #Czech #Medieval"
+Retweets: 15, Likes: 87
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-11 09:24:19] INSTAGRAM POST - USER: renaissance_art_lover
+Location: Vatican City
+Content: "St. Peter's Basilica dome climb is exhausting but worth it! Rome spreads out below ⛪ #Vatican #StPeters #Rome #Dome"
+Likes: 178, Comments: 22
+IP: 46.89.156.234
+Device: iPhone 14 Pro
+
+==================================================
+
+[2024-03-11 12:47:26] FACEBOOK POST - USER: spa_traveler
+Location: Bath, England
+Content: "Roman Baths are still steaming after 2000 years! Ancient engineering marvel ♨️ #Bath #RomanBaths #England #Ancient"
+Engagement: 123, likes, 19 comments
+IP: 86.234.67.178
+Device: Google Pixel 7
+
+==================================================
+
+[2024-03-11 15:38:52] TWITTER POST - USER: @food_street_explorer
+Location: Istanbul, Turkey
+Content: "Turkish street food tour complete! Döner, baklava, and Turkish tea heaven 🥙 #Istanbul #StreetFood #Turkish #Döner #Baklava"
+Retweets: 32, Likes: 267
+IP: 88.156.234.78
+Device: iPhone 11
+
+==================================================
+
+[2024-03-11 18:21:14] INSTAGRAM POST - USER: liberous_terminous
+Location: Mykonos, Greece
+Content: "Windmills of Mykonos at sunset! Cycladic architecture is timeless 🌅 #Mykonos #Windmills #Greece #Sunset #Cycladic"
+Likes: 134, Comments: 17
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-11 21:09:38] FACEBOOK POST - USER: northern_lights_chaser
+Location: Tromsø, Norway
+Content: "Aurora Borealis danced all night! Arctic Circle magic above the fjords 🌌 #Tromsø #NorthernLights #Aurora #Norway #Arctic"
+Engagement: 456, likes, 89 comments
+IP: 79.145.67.234
+Device: Aurora Camera + iPhone
+
+==================================================
+
+[2024-03-12 07:53:27] TWITTER POST - USER: @monastery_seeker
+Location: Meteora, Greece
+Content: "Monasteries on impossible cliffs! How did they even build these? 🏔️ #Meteora #Monasteries #Greece #Cliffs #Impossible"
+Retweets: 24, Likes: 198
+IP: 92.234.78.156
+Device: Drone + iPhone 13
+
+==================================================
+
+[2024-03-12 10:46:15] INSTAGRAM POST - USER: emerald_isle_explorer
+Location: Cliffs of Moher, Ireland
+Content: "Atlantic Ocean crashing against 200m cliffs! Ireland's wild beauty 🌊 #CliffsOfMoher #Ireland #Atlantic #Wild #Cliffs"
+Likes: 345, Comments: 47
+IP: 87.156.234.67
+Device: Weather Camera + iPhone
+
+==================================================
+
+[2024-03-12 13:32:41] FACEBOOK POST - USER: @MrMantza
+Location: Copenhagen, Denmark
+Content: "Nyhavn colorful houses reflect perfectly in the canal! Danish hygge at its finest 🏘️ #Copenhagen #Nyhavn #Denmark #Hygge"
+Engagement: 67, likes, 11 comments
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-12 16:19:58] TWITTER POST - USER: @alpine_adventure
+Location: Matterhorn, Switzerland
+Content: "Matterhorn peak emerged from clouds just for us! Swiss Alps perfection 🏔️ #Matterhorn #Switzerland #Alps #Peak #Clouds"
+Retweets: 38, Likes: 289
+IP: 178.67.234.156
+Device: Mountain Camera + iPhone
+
+==================================================
+
+[2024-03-12 19:44:23] INSTAGRAM POST - USER: ancient_rome_fan
+Location: Rome, Italy
+Content: "Colosseum underground tour revealed gladiator secrets! 2000 years of history beneath 🏛️ #Rome #Colosseum #Gladiator #Underground"
+Likes: 267, Comments: 34
+IP: 151.234.67.189
+Device: iPhone 13 Pro
+
+==================================================
+
+[2024-03-12 22:18:36] FACEBOOK POST - USER: midnight_sun_seeker
+Location: Lofoten Islands, Norway
+Content: "Midnight sun over Lofoten fishing villages! Summer in the Arctic Circle ☀️ #Lofoten #MidnightSun #Norway #Arctic #Fishing"
+Engagement: 198, likes, 29 comments
+IP: 82.156.234.78
+Device: Professional Camera
+
+==================================================
+
+[2024-03-13 08:27:14] TWITTER POST - USER: @MrMantza
+Location: Athens, Greece
+Content: "National Gardens escape from city chaos! Olive trees and peacocks in central Athens 🦚 #Athens #NationalGardens #Greece #Peacocks"
+Retweets: 8, Likes: 45
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-13 11:51:49] INSTAGRAM POST - USER: scottish_highlands_lover
+Location: Scottish Highlands
+Content: "Loch Katrine morning mist is pure magic! Scotland's untamed beauty 🏴󠁧󠁢󠁳󠁣󠁴󠁿 #ScottishHighlands #LochKatrine #Scotland #Mist"
+Likes: 234, Comments: 31
+IP: 86.67.189.234
+Device: Landscape Camera + iPhone
+
+==================================================
+
+[2024-03-13 14:16:22] FACEBOOK POST - USER: mediterranean_sailor
+Location: Malta
+Content: "Blue Lagoon Malta is Caribbean-level turquoise! Mediterranean hidden gem 🏊 #Malta #BlueLagoon #Mediterranean #Turquoise"
+Engagement: 167, likes, 23 comments
+IP: 188.234.67.156
+Device: Underwater Camera + iPhone
+
+==================================================
+
+[2024-03-13 17:43:35] TWITTER POST - USER: @baltic_explorer
+Location: Tallinn, Estonia
+Content: "Medieval Old Town Tallinn is perfectly preserved! Cobblestone streets and guild halls 🏰 #Tallinn #Estonia #Medieval #OldTown"
+Retweets: 16, Likes: 123
+IP: 90.156.78.234
+Device: iPhone 12
+
+==================================================
+
+[2024-03-13 20:28:47] INSTAGRAM POST - USER: @MrMantza
+Location: Bucharest, Romania
+Content: "Parliament Palace is enormous! Second largest administrative building in the world 🏛️ #Bucharest #Parliament #Romania #Enormous"
+Likes: 89, Comments: 14
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-14 09:15:31] FACEBOOK POST - USER: danube_river_cruise
+Location: Danube River, Multiple Countries
+Content: "Danube River cruise through 4 countries in one day! Budapest to Vienna magic 🚢 #Danube #RiverCruise #Budapest #Vienna"
+Engagement: 145, likes, 27 comments
+IP: 92.78.156.234
+Device: Ship WiFi + iPhone
+
+==================================================
+
+[2024-03-14 12:37:18] TWITTER POST - USER: @volcano_researcher
+Location: Mount Vesuvius, Italy
+Content: "Vesuvius crater hike completed! Pompeii destroyer up close and personal 🌋 #Vesuvius #Volcano #Italy #Pompeii #Crater"
+Retweets: 21, Likes: 178
+IP: 79.234.156.67
+Device: Volcanic Camera + iPhone
+
+==================================================
+
+[2024-03-14 15:44:26] INSTAGRAM POST - USER: adriatic_coast_wanderer
+Location: Dubrovnik, Croatia
+Content: "City walls walk at sunset reveals why they call it Pearl of the Adriatic! 🏰 #Dubrovnik #CityWalls #Croatia #Adriatic #Sunset"
+Likes: 289, Comments: 42
+IP: 188.67.234.156
+Device: iPhone 14 Pro
+
+==================================================
+
+[2024-03-14 18:52:39] FACEBOOK POST - USER: @MrMantza
+Location: Athens, Greece
+Content: "Plaka neighborhood evening stroll! Traditional tavernas and ancient streets blend perfectly 🍽️ #Athens #Plaka #Greece #Tavernas"
+Engagement: 78, likes, 12 comments
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-14 21:19:44] TWITTER POST - USER: @gothic_architecture_fan
+Location: Notre-Dame de Paris (External)
+Content: "Notre-Dame restoration progress is incredible! French craftsmanship rebuilding history ⛪ #NotreDame #Paris #Restoration #Gothic"
+Retweets: 34, Likes: 267
+IP: 87.156.234.78
+Device: iPhone 13 Pro
+
+==================================================
+
+[2024-03-15 08:41:17] INSTAGRAM POST - USER: alpine_lake_lover
+Location: Lake Geneva, Switzerland
+Content: "Lake Geneva morning reflections with Mont Blanc backdrop! Swiss perfection 🏔️ #LakeGeneva #MontBlanc #Switzerland #Alpine"
+Likes: 345, Comments: 51
+IP: 178.234.67.156
+Device: Lake Camera + iPhone
+
+==================================================
+
+[2024-03-15 11:28:53] FACEBOOK POST - USER: Karmen
+Location: Thessaloniki, Greece
+Content: "White Tower and waterfront promenade! Second city of Greece has serious charm 🗼 #Thessaloniki #WhiteTower #Greece #Waterfront"
+Engagement: 67, likes, 9 comments
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-15 13:35:29] INSTAGRAM POST - USER: @MrMantza
+Location: Athens, Greece
+Content: "The secret Hypertext Markup Language file is under the SUN and under the S3CR3T_D1R . Sssshh!>
+Likes: 23, Comments: 3
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-15 14:17:32] TWITTER POST - USER: @roman_ruins_explorer
+Location: Ephesus, Turkey
+Content: "Library of Celsus is ancient architecture perfection! Roman ruins in Turkish countryside 🏛️ #Ephesus #Turkey #Roman #Library #Ruins"
+Retweets: 19, Likes: 156
+IP: 85.234.78.167
+Device: Archaeological Camera + iPhone
+
+==================================================
+
+[2024-03-15 17:35:28] INSTAGRAM POST - USER: black_sea_adventurer
+Location: Constanta, Romania
+Content: "Black Sea coast sunset over Constanta port! Romania's maritime gateway 🌅 #Constanta #BlackSea #Romania #Port #Sunset"
+Likes: 123, Comments: 18
+IP: 89.167.234.78
+Device: Coastal Camera + iPhone
+
+==================================================
+
+[2024-03-15 20:49:15] FACEBOOK POST - USER: @MrMantza
+Location: Milan, Italy
+Content: "La Scala opera house tour was breathtaking! Italian culture at its most refined 🎭 #Milan #LaScala #Opera #Italy #Culture"
+Engagement: 45, likes, 7 comments
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-15 23:22:41] TWITTER POST - USER: @northern_european_capitals
+Location: Riga, Latvia
+Content: "Art Nouveau district in Riga is UNESCO worthy! Baltic architectural gems everywhere 🏛️ #Riga #Latvia #ArtNouveau #Baltic #UNESCO"
+Retweets: 12, Likes: 89
+IP: 84.234.156.78
+Device: iPhone 11 Pro
+
+==================================================
+
+[2024-03-16 07:38:29] INSTAGRAM POST - USER: castle_photographer_pro
+Location: Edinburgh, Scotland
+Content: "Edinburgh Castle from Princes Street Gardens! Scottish fortress against dramatic clouds 🏰 #Edinburgh #Castle #Scotland #Fortress"
+Likes: 267, Comments: 33
+IP: 86.156.234.78
+Device: Professional DSLR + iPhone
+
+==================================================
+
+[2024-03-16 10:15:44] FACEBOOK POST - USER: balkan_backpacker
+Location: Sarajevo, Bosnia
+Content: "Baščaršija bazaar is sensory overload in the best way! Ottoman heritage alive 🕌 #Sarajevo #Baščaršija #Bosnia #Ottoman #Bazaar"
+Engagement: 134, likes, 21 comments
+IP: 77.234.167.89
+Device: Samsung Galaxy A52
+
+==================================================
+
+[2024-03-16 13:47:18] TWITTER POST - USER: @Helen_Britten
+Location: Geneva, Switzerland
+Content: "UN Headquarters visit complete! Diplomacy capital of the world 🌍 #Geneva #UN #Switzerland #Diplomacy #WorldPeace"
+Retweets: 14, Likes: 76
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-16 16:31:52] INSTAGRAM POST - USER: wine_region_explorer
+Location: Douro Valley, Portugal
+Content: "Terraced vineyards of Douro Valley are engineering marvels! Port wine paradise 🍷 #DouroValley #Portugal #Wine #Terraces #Port"
+Likes: 189, Comments: 26
+IP: 46.178.234.67
+Device: Vineyard Camera + iPhone
+
+==================================================
+
+[2024-03-16 19:58:37] FACEBOOK POST - USER: arctic_circle_adventurer
+Location: Rovaniemi, Finland
+Content: "Santa's Village at Arctic Circle! Christmas magic year-round in Lapland 🎅 #Rovaniemi #Finland #Santa #ArcticCircle #Lapland"
+Engagement: 298, likes, 56 comments
+IP: 62.234.78.156
+Device: Arctic Camera + iPhone
+
+==================================================
+
+[2024-03-16 22:14:23] TWITTER POST - USER: @renaissance_cities
+Location: Siena, Italy
+Content: "Piazza del Campo shell shape is medieval urban planning genius! Siena rivals Florence 🏛️ #Siena #PiazzadelCampo #Italy #Medieval"
+Retweets: 18, Likes: 145
+IP: 87.156.78.234
+Device: iPhone 12 Pro Max
+
+==================================================
+
+[2024-03-17 08:22:16] INSTAGRAM POST - USER: @MrMantza
+Location: Krakow, Poland
+Content: "Wawel Dragon legend comes alive! Polish folklore in the castle caves 🐉 #Krakow #WawelDragon #Poland #Folklore #Castle"
+Likes: 67, Comments: 11
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-17 11:49:33] FACEBOOK POST - USER: spa_wellness_traveler
+Location: Karlovy Vary, Czech Republic
+Content: "Thermal springs and elegant colonnades! Czech spa town elegance at its finest ♨️ #KarlovyVary #Czech #ThermalSprings #Spa"
+Engagement: 123, likes, 18 comments
+IP: 88.234.167.78
+Device: Wellness Camera + iPhone
+
+==================================================
+
+[2024-03-17 14:36:47] TWITTER POST - USER: @mediterranean_islands
+Location: Cyprus
+Content: "Aphrodite's birthplace lives up to the myth! Cypriot beaches are divine 🏖️ #Cyprus #Aphrodite #Mediterranean #Beaches #Divine"
+Retweets: 22, Likes: 187
+IP: 46.167.234.89
+Device: Beach Camera + iPhone
+
+==================================================
+
+[2024-03-17 17:18:54] INSTAGRAM POST - USER: eastern_european_gems
+Location: Ljubljana, Slovenia
+Content: "Dragon Bridge and Ljubljana Castle! Slovenia's capital is fairy tale perfect 🐉 #Ljubljana #Slovenia #DragonBridge #Castle"
+Likes: 156, Comments: 19
+IP: 93.234.78.167
+Device: iPhone 13
+
+==================================================
+
+[2024-03-17 20:43:29] FACEBOOK POST - USER: @MrMantza
+Location: Salzburg, Austria
+Content: "Mozart's birthplace and Sound of Music locations! Austrian baroque beauty everywhere 🎵 #Salzburg #Mozart #Austria #SoundofMusic"
+Engagement: 89, likes, 13 comments
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-17 23:27:18] TWITTER POST - USER: @viking_heritage_seeker
+Location: York, England
+Content: "Jorvik Viking Centre brings 1000-year-old York to life! Anglo-Saxon and Viking history ⚔️ #York #Viking #England #Jorvik #History"
+Retweets: 15, Likes: 112
+IP: 86.167.234.78
+Device: Historical Camera + iPhone
+
+==================================================
+
+[2024-03-18 09:14:42] INSTAGRAM POST - USER: caucasus_explorer
+Location: Tbilisi, Georgia
+Content: "Old Town Tbilisi sulfur baths and colorful balconies! Caucasus crossroads culture 🏘️ #Tbilisi #Georgia #Caucasus #SulfurBaths"
+Likes: 234, Comments: 31
+IP: 85.234.167.89
+Device: Cultural Camera + iPhone
+
+==================================================
+
+[2024-03-18 12:38:15] FACEBOOK POST - USER: monastery_mountain_climber
+Location: Mount Athos, Greece
+Content: "Holy Mountain monasteries pilgrimage complete! Orthodox Christianity's spiritual center ⛪ #MountAthos #Greece #Orthodox #Monasteries"
+Engagement: 167, likes, 29 comments
+IP: 94.178.234.67
+Device: Pilgrimage Camera + iPhone
+
+==================================================
+
+[2024-03-18 15:52:33] TWITTER POST - USER: @MrGiannis
+Location: Brussels, Belgium
+Content: "Grand Place guild houses are architectural poetry! Belgian Gothic and Baroque masterpiece 🏛️ #Brussels #GrandPlace #Belgium #Gothic"
+Retweets: 11, Likes: 78
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-18 18:47:26] INSTAGRAM POST - USER: fjord_cruise_specialist
+Location: Norwegian Fjords
+Content: "Geiranger to Flam fjord cruise complete! Norwegian nature at its most dramatic 🚢 #NorwegianFjords #Geiranger #Flam #Cruise"
+Likes: 345, Comments: 47
+IP: 84.234.167.78
+Device: Fjord Camera + iPhone
+
+==================================================
+
+[2024-03-18 21:33:51] FACEBOOK POST - USER: transylvanian_castle_hunter
+Location: Brașov, Romania
+Content: "Brașov medieval squares and Saxon architecture! Transylvanian gem in the Carpathians 🏰 #Brașov #Romania #Transylvania #Saxon"
+Engagement: 134, likes, 22 comments
+IP: 89.167.234.78
+Device: Castle Camera + iPhone
+
+==================================================
+
+[2024-03-19 08:16:37] TWITTER POST - USER: @danube_delta_naturalist
+Location: Danube Delta, Romania
+Content: "Danube Delta bird watching paradise! 300 species in Europe's largest wetland 🦅 #DanubeDelta #Romania #Birds #Wetland #Nature"
+Retweets: 24, Likes: 189
+IP: 92.234.167.89
+Device: Bird Camera + iPhone
+
+==================================================
+
+[2024-03-19 11:41:14] INSTAGRAM POST - USER: @MrMantza
+Location: Lyon, France
+Content: "Basilique Notre-Dame de Fourvière overlooks the city! French religious architecture at its peak ⛪ #Lyon #NotreDame #France #Basilique"
+Likes: 56, Comments: 8
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-19 14:29:48] FACEBOOK POST - USER: alpine_hiking_enthusiast
+Location: Dolomites, Italy
+Content: "Tre Cime di Lavaredo hike completed! Italian Alps are UNESCO perfect 🏔️ #Dolomites #TreCime #Italy #Alps #UNESCO #Hiking"
+Engagement: 267, likes, 41 comments
+IP: 79.234.167.89
+Device: Alpine Camera + iPhone
+
+==================================================
+
+[2024-03-19 17:55:22] TWITTER POST - USER: @island_hopper_med
+Location: Corfu, Greece
+Content: "Venetian fortress and Achilleion Palace! Corfu blends Greek and Italian influences perfectly 🏰 #Corfu #Greece #Venetian #Achilleion"
+Retweets: 16, Likes: 123
+IP: 94.167.234.78
+Device: Island Camera + iPhone
+
+==================================================
+
+[2024-03-19 20:18:36] INSTAGRAM POST - USER: bohemian_quarter_explorer
+Location: Prague, Czech Republic
+Content: "Lesser Town baroque palaces under Prague Castle! Bohemian aristocratic elegance 🏰 #Prague #LesserTown #Baroque #Bohemian #Castle"
+Likes: 189, Comments: 25
+IP: 88.234.167.89
+Device: iPhone 14
+
+==================================================
+
+[2024-03-19 23:44:19] FACEBOOK POST - USER: @MrMantza
+Location: Nice, France
+Content: "Promenade des Anglais sunset over the Mediterranean! French Riviera at its most glamorous 🌅 #Nice #PromenadedesAnglais #France #Riviera"
+Engagement: 98, likes, 15 comments
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-20 09:31:28] TWITTER POST - USER: @hanseatic_league_historian
+Location: Lübeck, Germany
+Content: "Holstentor gate and brick Gothic architecture! Hanseatic League trading power still visible 🏰 #Lübeck #Germany #Hanseatic #Gothic"
+Retweets: 13, Likes: 87
+IP: 217.167.234.89
+Device: Historical Camera + iPhone
+
+==================================================
+
+[2024-03-20 12:47:15] INSTAGRAM POST - USER: thermal_spring_researcher
+Location: Blue Lagoon, Iceland
+Content: "Geothermal silica mud masks in 39°C water! Iceland's geothermal paradise ♨️ #BlueLagoon #Iceland #Geothermal #Silica #Paradise"
+Likes: 234, Comments: 32
+IP: 82.234.167.78
+Device: Thermal Camera + iPhone
+
+==================================================
+
+[2024-03-20 15:23:41] FACEBOOK POST - USER: celtic_heritage_seeker
+Location: Skellig Michael, Ireland
+Content: "Ancient monastery on impossible rock! Star Wars filming location is spiritually powerful ⛪ #SkelligMichael #Ireland #Monastery #StarWars"
+Engagement: 189, likes, 28 comments
+IP: 87.167.234.89
+Device: Celtic Camera + iPhone
+
+==================================================
+
+[2024-03-20 18:36:54] TWITTER POST - USER: @MrMantza
+Location: Florence, Italy
+Content: "Ponte Vecchio jewelry shops over the Arno! Medieval commerce still thriving 💎 #Florence #PonteVecchio #Italy #Medieval #Jewelry"
+Retweets: 9, Likes: 67
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-20 21:52:17] INSTAGRAM POST - USER: carpathian_mountain_guide
+Location: Carpathian Mountains, Romania
+Content: "Omu Peak sunrise over the Carpathians! Romanian mountain wilderness at 2505m 🏔️ #Carpathians #Romania #OmuPeak #Sunrise #Wilderness"
+Likes: 167, Comments: 21
+IP: 89.234.167.78
+Device: Mountain Camera + iPhone
+
+==================================================
+
+[2024-03-21 08:14:33] FACEBOOK POST - USER: venetian_lagoon_explorer
+Location: Murano, Italy
+Content: "Glass blowing masters of Murano continue 1000-year tradition! Venetian craftsmanship perfection 🪟 #Murano #Italy #Glass #Venetian #Craftsmanship"
+Engagement: 145, likes, 19 comments
+IP: 151.167.234.89
+Device: Craft Camera + iPhone
+
+==================================================
+
+[2024-03-21 11:39:48] TWITTER POST - USER: @ottoman_architecture_fan
+Location: Edirne, Turkey
+Content: "Selimiye Mosque is Sinan's masterpiece! Ottoman architecture reaches perfection 🕌 #Edirne #Turkey #Selimiye #Ottoman #Sinan"
+Retweets: 17, Likes: 134
+IP: 78.234.167.89
+Device: Architectural Camera + iPhone
+
+==================================================
+
+[2024-03-21 14:58:26] INSTAGRAM POST - USER: @nobadyX
+Location: Cannes, France
+Content: "Festival Palace and Croisette glamour! French Riviera film festival atmosphere year-round 🎬 #Cannes #France #Festival #Croisette #Glamour"
+Likes: 78, Comments: 12
+IP: 176.34.89.156
+Device: Samsung Galaxy S22
+
+==================================================
+
+[2024-03-21 17:42:11] FACEBOOK POST - USER: renaissance_fresco_hunter
+Location: Padua, Italy
+Content: "Scrovegni Chapel Giotto frescoes are revolutionary! Proto-Renaissance art at its birth 🎨 #Padua #Italy #Scrovegni #Giotto #Renaissance"
+Engagement: 123, likes, 17 comments
+IP: 79.167.234.89
+Device: Art Camera + iPhone
+
+==================================================
+
+[2024-03-21 20:27:39] TWITTER POST - USER: @baltic_amber_collector
+Location: Kaliningrad, Russia
+Content: "Amber Museum in Königsberg holds Baltic gold treasures! Russian exclave preserves Prussian heritage 💎 #Kaliningrad #Russia #Amber #Baltic"
+Retweets: 12, Likes: 89
+IP: 46.234.167.78
+Device: Amber Camera + iPhone
+
+==================================================
+
+[2024-03-21 23:15:54] INSTAGRAM POST - USER: medieval_fortification_expert
+Location: Carcassonne, France
+Content: "La Cité medieval fortress is perfectly restored! French fortification architecture masterclass 🏰 #Carcassonne #France #Medieval #Fortress"
+Likes: 267, Comments: 34
+IP: 87.234.167.89
+Device: Fortress Camera + iPhone
+
+==================================================
+
+# End of Log File - Total Entries: 200+
+# Investigation Status: ONGOING
+# Next Review: 2024-03-22
+# Classification: CONFIDENTIAL
