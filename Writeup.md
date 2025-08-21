@@ -38,73 +38,83 @@ Players get a .jpg file (with hidden information embed) and logs.txt (a "large" 
 
 ## Skills Learned (!)
 
-- Learn how SQLi works.
-- Learn how to unpack executables.
-- Learn how to solve linear systems of equations.
-- ...
+- Learn Basic-Moderate OSINT techniques
+- Learn how to analyze logs files
 
 # Enumeration (!)
 
-## Analyzing the source code (*)
-
-- Explain what source files you are provided with when you unzip the challenge zip file.
 
 Analyze the source files as much as you can so it is clear what the challenge is about.
+When a player unzips the .zip file, gets a photo .jpg and a logs.txt file.
+Player has to analyze the photo for metadata and hidden steganographic informations. There are a lot of clues the player needs.
 
-...
+After gather some information the player needs to find the correct log to gather some more secrets! Someone could start with this, but as soos as he reach the hidden path in the website, he should have found the key from the photo steganography first.
 
-If we look at `source.py`, we can see that our goal is:
-
-- Specify the goal of the challenge (i.e. where the flag is and how it can be accessed)
-- ...
-
-The basic workflow of the script is as follows:
-
-1. Method `test()` is called which then calls `test1()`
-2. `test1()` creates an object of the `XXX` class which initializes `YYY`.
-3. ...
-
-A little summary of all the interesting things we have found out so far:
-
-1. The PHP query handler does not use prepared statements.
-2. The RSA modulo is generated with a non-standard way.
-3. ...
 
 # Solution (!)
 
-## Finding the vulnerability (*)
+1. First we need to search the photograph for metadata information.
+   We could use the exiftool with this command:
 
-Explain where the vulnerability is. Be as detailed as possible so there are no logical gaps as to how you figured out the vulnerability and how you will proceed to the solution.
 
-## Exploitation (!)
+   exiftool card_postal.jpg
 
-### Connecting to the server (*)
 
-Here is some boilerplate code for connecting to a docker-based challenge:
+<SNIP>
 
-```python
-if __name__ == "__main__":
-    r = remote("0.0.0.0", 1337)
-    pwn()
-```
+    GPS Satellites                  : 8
+    Comment                         : clueless
+    Image Width                     : 6016
+    Image Height                    : 4016
+    Encoding Process                : Baseline DCT, Huffman coding
+    Bits Per Sample                 : 8
+    Color Components                : 3
+    Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+    Image Size                      : 6016x4016
+    Megapixels                      : 24.2
+    GPS Altitude                    : 147 m Above Sea Level
+    GPS Latitude                    : 37 deg 59' 15.57" N
+    GPS Longitude                   : 23 deg 44' 5.20" E
+    GPS Position                    : 37 deg 59' 15.57" N, 23 deg 44' 5.20" E
+</SNIP>
 
-Let us consider our attack scenario.
+From those results we should keep this "Comment  :  clueless"
 
-1. ...
-2. ...
-3. ...
+And the GPS cordinations. With a quick google maps search we can see that those cords are from Athens.
 
-The attack explained above can be implemented with the following code:
+2. At this point we can search the logs.txt.
+   It would be smart to use the "grep" to take only results from MrMantza and from Athens
 
-```python
-def important_function_that_does_something(param1, param2):
-    <function_body>
-```
+   so we use: cat logs.txt | grep -A 5 -B 1 "MrMantza" logs.txt | grep -A 5 -B 5 "Athens"
+
+   In one of those we can see a strange message:
+   "The secret Hypertext Markup Language file is under the SUN and under the S3CR3T_D1R . Sssshh!"
+
+   We could easily find out that in the path /SUN/S3CR3T_D1R is a secret.html file
+
+3. We visit the path /SUN/S3CR3T_D1R/secret.html
+
+   There is a submit field. We could try the clueless from the photo metadata, but we get garbages.
+
+   It is common to use steganography to hide data into photographs!
+
+   So we can use the tool steghide to extract hidden data from photo with password clueless:
+
+   steghide extract -sf card_postal.jpg -p clueless
+
+4. We take a secre.txt and open it:
+<SNIP>
+
+       cat secre.txt   --->  ATH3N5_M4NTZ4_2024_S3CR3T_K3Y
+
+6. We insert this key in the submit field and finaly get the flag!
 
 ### Getting the flag (!)
 
 A final summary of all that was said above:
 
-1.
-2.
-3. cat logs.txt | grep -A 5 -B 1 "MrMantza" logs.txt | grep -A 5 -B 5 "Athens"
+1. exiftool card_postal.jpg
+2. steghide extract -sf card_postal.jpg -p clueless
+3. cat secret.txt
+4. cat logs.txt | grep -A 5 -B 1 "MrMantza" logs.txt | grep -A 5 -B 5 "Athens"
+5. submit the key and take the flag
