@@ -107,12 +107,4 @@ A final summary of all that was said above:
 
 1.
 2.
-
-This recap can be represented by code using `pwn()` function:
-
-```python
-def pwn():
-    pass
-```
-
-Avoid writing any function body here. Make sure you have written them under `Exploitation` or `Finding the vulnerability` sections.
+3. cat logs.txt | grep -A 5 -B 1 "MrMantza" logs.txt | grep -A 5 -B 5 "Athens"
