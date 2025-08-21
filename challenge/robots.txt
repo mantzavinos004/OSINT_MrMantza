@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /administrator/
+Disallow: /phpmyadmin/
+Disallow: /config/
+Disallow: /backup/
+Allow: /
+# These are honeypots - the real secret is elsewhere

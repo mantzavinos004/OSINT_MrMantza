@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EuroTravel Solutions - Premium European Tours</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #2c3e50, #3498db);
+            color: white;
+            padding: 1rem 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 2rem;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: bold;
+        }
+
+        .nav-menu {
+            display: flex;
+            list-style: none;
+            gap: 2rem;
+        }
+
+        .nav-menu a {
+            color: white;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+
+        .nav-menu a:hover {
+            color: #f39c12;
+        }
+
+        .hero {
+            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><rect fill="%23e8f4f8" width="1200" height="600"/><path fill="%233498db" d="M0 400l50-16.7C100 367 200 333 300 333s200 34 300 34 200-34 300-34 200 34 300 34 200-34 300-34v267H0z"/></svg>');
+            background-size: cover;
+            background-position: center;
+            height: 500px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+        }
+
+        .hero-content h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .hero-content p {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+        }
+
+        .btn {
+            background: #f39c12;
+            color: white;
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.1rem;
+            cursor: pointer;
+            transition: background 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .btn:hover {
+            background: #e67e22;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        .section {
+            padding: 4rem 0;
+        }
+
+        .services {
+            background: #f8f9fa;
+        }
+
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .service-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            text-align: center;
+            transition: transform 0.3s;
+        }
+
+        .service-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .service-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .about {
+            padding: 4rem 0;
+        }
+
+        .about-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 3rem;
+            align-items: center;
+        }
+
+        .contact {
+            background: #2c3e50;
+            color: white;
+        }
+
+        .contact-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .contact-item {
+            text-align: center;
+            padding: 1rem;
+        }
+
+        .footer {
+            background: #1a252f;
+            color: white;
+            text-align: center;
+            padding: 2rem 0;
+        }
+
+        .hidden-clue {
+            color: #f8f9fa;
+            font-size: 0.8rem;
+            opacity: 0.1;
+            margin-top: 2rem;
+            cursor: default;
+        }
+
+        .section-title {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: #2c3e50;
+        }
+
+        @media (max-width: 768px) {
+            .nav-menu {
+                display: none;
+            }
+            
+            .hero-content h1 {
+                font-size: 2rem;
+            }
+            
+            .about-content {
+                grid-template-columns: 1fr;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="nav-container">
+            <div class="logo">EuroTravel Solutions</div>
+            <nav>
+                <ul class="nav-menu">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero" id="home">
+        <div class="hero-content">
+            <h1>Discover Europe Like Never Before</h1>
+            <p>Premium guided tours across Europe's most enchanting destinations</p>
+            <a href="#services" class="btn">Explore Our Tours</a>
+        </div>
+    </section>
+
+    <section class="services section" id="services">
+        <div class="container">
+            <h2 class="section-title">Our Services</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-icon">🏛️</div>
+                    <h3>Historical Tours</h3>
+                    <p>Explore ancient civilizations and historical landmarks across Europe with expert guides.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🍷</div>
+                    <h3>Culinary Experiences</h3>
+                    <p>Taste authentic European cuisine and discover local culinary traditions.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🚂</div>
+                    <h3>Luxury Transport</h3>
+                    <p>Travel in comfort with our premium transportation options across Europe.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="about section" id="about">
+        <div class="container">
+            <div class="about-content">
+                <div>
+                    <h2 class="section-title">About EuroTravel</h2>
+                    <p>Founded in 2015, EuroTravel Solutions has been connecting travelers with Europe's most captivating destinations. Our team of experienced guides and travel specialists ensure every journey becomes an unforgettable adventure.</p>
+                    <br>
+                    <p>We specialize in personalized tours that cater to your interests, whether you're fascinated by ancient history, passionate about local cuisine, or seeking luxury experiences across European capitals.</p>
+                    <br>
+                    <p>Our recent partnership with local European businesses has expanded our network, allowing us to offer exclusive experiences. We've been working closely with various partners, including some who prefer to work under the radar - like our associate Mr. Mantza, who handles our special Athens connections.</p>
+                </div>
+                <div>
+                    <h3>Why Choose Us?</h3>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="padding: 0.5rem 0;">✓ Expert local guides</li>
+                        <li style="padding: 0.5rem 0;">✓ Customized itineraries</li>
+                        <li style="padding: 0.5rem 0;">✓ 24/7 support</li>
+                        <li style="padding: 0.5rem 0;">✓ Best price guarantee</li>
+                        <li style="padding: 0.5rem 0;">✓ Sustainable tourism</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="contact section" id="contact">
+        <div class="container">
+            <h2 class="section-title" style="color: white;">Contact Us</h2>
+            <div class="contact-info">
+                <div class="contact-item">
+                    <h3>📧 Email</h3>
+                    <p>info@eurotravel-solutions.com</p>
+                </div>
+                <div class="contact-item">
+                    <h3>📞 Phone</h3>
+                    <p>+44 20 7946 0958</p>
+                </div>
+                <div class="contact-item">
+                    <h3>📍 Address</h3>
+                    <p>123 Travel Street<br>London, UK</p>
+                </div>
+                <div class="contact-item">
+                    <h3>🕒 Hours</h3>
+                    <p>Mon-Fri: 9AM-6PM<br>Weekend: 10AM-4PM</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 EuroTravel Solutions. All rights reserved.</p>
+            <p>Crafted with ❤️ for European adventures</p>
+        </div>
+    </footer>
+    <script>
+        // Anti-fuzzing measures
+        let requestCount = 0;
+        const maxRequests = 60;
+        const timeWindow = 60000; // 1 minute
+
+        // Detect automated tools
+        function detectAutomation() {
+            if (navigator.webdriver || window.phantom || window._phantom) {
+                document.body.innerHTML = '<h1>Access Denied</h1><p>Automated access detected.</p>';
+                return;
+            }
+        }
+
+        // Smooth scrolling for navigation
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+
+        // Initialize security checks
+        detectAutomation();
+
+        // Log suspicious activity
+        window.addEventListener('error', function(e) {
+            console.log('Potential scanning attempt detected');
+        });
+    </script>
+</body>
+</html>
