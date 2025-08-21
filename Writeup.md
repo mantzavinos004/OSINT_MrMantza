@@ -4,31 +4,37 @@
 
 1<sup>st</sup> August 2023
 
-Prepared By: `<author_name>`
+Prepared By: `athleticKid`
 
-Challenge Author(s): `<author_name>`
+Challenge Author(s): `athleticKid`
 
 Difficulty: <font color='orange'>Medium</font>
 
 <br><br>
 
-***NOTE : The headings with `(!)` should be necessarily included in your writeup while the ones with `(*)` are optional and should be included only if there is a need to. Of course, you can modify the content of each section accordingly. We just provide some boilerplate text.***
+***
+
+
+
+
+
+.
+***
 
 # Synopsis (!)
 
-- Briefly explain what the user must do to solve this challenge.
+Players must enumerate a photograph and some logs in a file to find hidden files and directories in a static website, ultimately finding a secret path that contains sensitive information (or a flag).
 
 ## Description (!)
 
-- ...
+Players get a .jpg file (with hidden information embed) and logs.txt (a "large" fake logs) file. I addition, they get access to a static website. They have to use the .jpg file to find some information, maybe geo or some stenography, so they can use it to search in efficient way the logs. There they will find some clues about a hidden path to the website. Once they get there, they need to insert a secret key. They got it from the .jpg file. If its wrong, it should give them back some garbages, but if the key was correct, it should give them back the correct flag (i wanted something simple for this flag-key testing, so i just XOR it with a very big key (difficult to break it with brute-force). I also thought that a server-client configuration would be an overkill for this simple OSINT challenge).
 
 ## Skills Required (!)
 
-- Python
+- Basic web enumeration skills
 - Researching Skills
-- C/C++
-- Know how to use common RE tools (i.e. Ghidra, IDA)
-- ...
+- Basic logs analysis
+- Know how to use steganographic tools
 
 ## Skills Learned (!)
 
